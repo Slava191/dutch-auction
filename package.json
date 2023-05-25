@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "npx hardhat coverage"
+  },
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
+    "chai": "^4.3.7",
+    "hardhat-waffle": "^0.0.1-security",
+    "solidity-coverage": "^0.8.2"
+  }
+}
